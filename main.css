@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+
+#divcentral{
+    text-align: center;
+    margin-top: 3em;
+    margin-left: 2em;
+    margin-right: 2em;
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+.text{
+    color: rgb(255, 255, 255);
+}
