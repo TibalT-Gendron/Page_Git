@@ -1,6 +1,6 @@
 # Page_Git
 
-Titre du projet : site web Adolf Hitler
+Titre du projet : site web  Biographie de Socrate
 (***Tibalt *** Victor *** Gracieux***)
 
 Une petite description du projet
